@@ -1,0 +1,9 @@
+# Local investigation, browser fixtures, backups, and verification artifacts
+/work/
+
+# Screenshot contains a signed-in training course page and playback state
+/outputs/倍速运行截图.jpg
+
+# Local editor and system files
+.DS_Store
+Thumbs.db
